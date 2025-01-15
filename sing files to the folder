@@ -1,0 +1,32 @@
+[33mcommit 2f59680af6c109214fb082dabdeba48656582891[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: b4e0a9b b624c21
+Author: Pratham Gupta <prathamgupta9001@gmail.com>
+Date:   Wed Jan 15 17:20:18 2025 +0530
+
+    Merge branch 'master' of https://github.com/Femto69/TEAM_UDUPI
+
+[33mcommit b4e0a9b1866ab8bb7363b611517aaa0056a6091d[m
+Author: Pratham Gupta <prathamgupta9001@gmail.com>
+Date:   Wed Jan 15 17:13:03 2025 +0530
+
+    Initial commit with folder contents
+
+[33mcommit b624c21c4d4bc3963ac9f2921f5a0d9b2b77b7d3[m
+Author: Femto69 <125330022+Femto69@users.noreply.github.com>
+Date:   Wed Jan 15 17:12:31 2025 +0530
+
+    MECHATRONICS CODE
+
+[33mcommit 73e1257e3b3de5261841a39923cfad57e5735b03[m
+Author: Pratham Gupta <prathamgupta9001@gmail.com>
+Date:   Wed Jan 15 16:48:57 2025 +0530
+
+    Revert "Initial commit with folder contents"
+    
+    This reverts commit d2c67582b24e6b6cfc4ac7c89b61107c556e27ad.
+
+[33mcommit d2c67582b24e6b6cfc4ac7c89b61107c556e27ad[m
+Author: Pratham Gupta <prathamgupta9001@gmail.com>
+Date:   Wed Jan 15 16:36:21 2025 +0530
+
+    Initial commit with folder contents
